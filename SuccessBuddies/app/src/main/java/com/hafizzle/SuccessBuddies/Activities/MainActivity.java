@@ -1,13 +1,11 @@
-package com.hafizzle.SuccessBuddies.Activities;
+package com.hafizzle.successbuddies.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 
-import com.hafizzle.SuccessBuddies.Adapters.SprintAdapter;
-import com.hafizzle.SuccessBuddies.Objects.Sprint;
-import com.hafizzle.SuccessBuddies.R;
+import com.hafizzle.successbuddies.Adapters.SprintAdapter;
+import com.hafizzle.successbuddies.Objects.Sprint;
+import com.hafizzle.successbuddies.R;
 
 import java.util.ArrayList;
 
