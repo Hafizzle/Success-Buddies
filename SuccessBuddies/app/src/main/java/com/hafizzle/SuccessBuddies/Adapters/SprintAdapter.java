@@ -1,4 +1,4 @@
-package com.hafizzle.relentlessbuddies.Adapters;
+package com.hafizzle.SuccessBuddies.Adapters;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -10,8 +10,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.hafizzle.relentlessbuddies.Objects.Sprint;
-import com.hafizzle.relentlessbuddies.R;
+import com.hafizzle.SuccessBuddies.Objects.Sprint;
+import com.hafizzle.SuccessBuddies.R;
 
 import java.util.ArrayList;
 

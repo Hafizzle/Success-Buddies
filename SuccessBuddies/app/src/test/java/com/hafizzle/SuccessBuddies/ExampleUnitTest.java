@@ -1,4 +1,4 @@
-package com.hafizzle.relentlessbuddies;
+package com.hafizzle.SuccessBuddies;
 
 import org.junit.Test;
 

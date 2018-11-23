@@ -1,19 +1,15 @@
-package com.hafizzle.relentlessbuddies.Activities;
+package com.hafizzle.SuccessBuddies.Activities;
 
-import android.content.res.AssetManager;
-import android.graphics.Typeface;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.widget.TextView;
 
-import com.hafizzle.relentlessbuddies.Adapters.SprintAdapter;
-import com.hafizzle.relentlessbuddies.Objects.Sprint;
-import com.hafizzle.relentlessbuddies.R;
+import com.hafizzle.SuccessBuddies.Adapters.SprintAdapter;
+import com.hafizzle.SuccessBuddies.Objects.Sprint;
+import com.hafizzle.SuccessBuddies.R;
 
 import java.util.ArrayList;
-import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 

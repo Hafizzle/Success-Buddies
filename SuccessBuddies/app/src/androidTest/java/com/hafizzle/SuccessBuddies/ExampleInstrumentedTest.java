@@ -1,4 +1,4 @@
-package com.hafizzle.relentlessbuddies;
+package com.hafizzle.SuccessBuddies;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

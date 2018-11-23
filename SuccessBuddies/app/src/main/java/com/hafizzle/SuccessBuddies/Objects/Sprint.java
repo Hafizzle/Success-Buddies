@@ -1,7 +1,6 @@
-package com.hafizzle.relentlessbuddies.Objects;
+package com.hafizzle.SuccessBuddies.Objects;
 
 import android.graphics.drawable.Drawable;
-import android.widget.ImageView;
 
 public class Sprint {
 
