@@ -2,6 +2,8 @@ package com.hafizzle.successbuddies.Activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
 
 import com.hafizzle.successbuddies.Adapters.SprintAdapter;
 import com.hafizzle.successbuddies.Objects.Sprint;
@@ -9,12 +11,12 @@ import com.hafizzle.successbuddies.R;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_home);
 
         init();
     }
@@ -31,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         ArrayList<Sprint> sprints = new ArrayList<>();
         Sprint sprint = new Sprint("Singing", "Hafiz");
         sprints.add(sprint);
-        SprintAdapter sprintAdapter = new SprintAdapter(sprints, this);
+        SprintAdapter sprintAdapter = new SprintAdapter(sprints,this);
 
         RecyclerView recyclerView = (RecyclerView)findViewById(R.id.recyclerView);
         recyclerView.setAdapter(sprintAdapter);

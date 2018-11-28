@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "608238033942",
+    "firebase_url": "https://success-buddies.firebaseio.com",
+    "project_id": "success-buddies",
+    "storage_bucket": "success-buddies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608238033942:android:52ce01a80c5fbffa",
+        "android_client_info": {
+          "package_name": "com.hafizzle.successbuddies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608238033942-m7tlmk4ah9b962kg78so7f8bspo1hs31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQKtCggChYx8-WDRNbDRZ_2E8FRgjT650"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

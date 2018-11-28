@@ -11,8 +11,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.hafizzle.relentlessbuddies.Objects.Sprint;
-import com.hafizzle.relentlessbuddies.R;
+import com.hafizzle.successbuddies.Objects.Sprint;
+import com.hafizzle.successbuddies.R;
 
 import java.util.ArrayList;
 
