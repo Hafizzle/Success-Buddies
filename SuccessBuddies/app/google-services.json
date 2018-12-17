@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "608238033942",
-    "firebase_url": "https://success-buddies.firebaseio.com",
-    "project_id": "success-buddies",
-    "storage_bucket": "success-buddies.appspot.com"
+    "project_number": "829580513448",
+    "firebase_url": "https://successbuddies-a1e1e.firebaseio.com",
+    "project_id": "successbuddies-a1e1e",
+    "storage_bucket": "successbuddies-a1e1e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:608238033942:android:52ce01a80c5fbffa",
+        "mobilesdk_app_id": "1:829580513448:android:1b956bc00ff1e457",
         "android_client_info": {
           "package_name": "com.hafizzle.successbuddies"
         }
       },
       "oauth_client": [
         {
-          "client_id": "608238033942-m7tlmk4ah9b962kg78so7f8bspo1hs31.apps.googleusercontent.com",
+          "client_id": "829580513448-pvbhacdqqoktpbovplc3ut78v0ppd2t6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hafizzle.successbuddies",
+            "certificate_hash": "2e4c99da19cdfe112c8cdc03a40b2dbf9f672731"
+          }
+        },
+        {
+          "client_id": "829580513448-gbqb9pjk88ru2c0em66sf5675kthqao5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDQKtCggChYx8-WDRNbDRZ_2E8FRgjT650"
+          "current_key": "AIzaSyD0UgU4__uJlB41_Wnx95GiJaju4acj3P8"
         }
       ],
       "services": {
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829580513448-gbqb9pjk88ru2c0em66sf5675kthqao5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
